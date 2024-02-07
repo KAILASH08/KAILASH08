@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming and Coding..
 - 📝 I write articles on [Medium](https://medium.com/@javacharter).
 - 🌱 I’m exploring Scala, Kubernetes, Akka Framework, SNMP.
+- ▶️ I run YouTube channel with name [JavaCharter](https://www.youtube.com/@javacharter9877).
 - 📫 How to reach me : You can reach me through nirmal.kailash@rediffmail.com 
 
 I'm a Software Professional with over 13 years of professional experience in the software industry. 
