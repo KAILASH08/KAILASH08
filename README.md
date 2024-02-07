@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kailash Nirmal ( @KAILASH08 is my GitHub UserName )
 - 👀 I’m interested in Programming and Coding..
 - 📝 I write articles on [Medium](https://medium.com/@javacharter).
+- 🌱 I’m exploring Scala, Kubernetes, Akka Framework, SNMP.
 - 📫 How to reach me : You can reach me through nirmal.kailash@rediffmail.com 
 
 I'm a Software Professional with over 13 years of professional experience in the software industry. 
